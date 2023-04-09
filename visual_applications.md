@@ -1,4 +1,4 @@
-## Project
+## Applications
 
 - [基于pphuman的人流量可视化数据大屏](https://github.com/KirigiriSuzumiya/crowd_vis)
 - [基于频域的数字盲水印](https://github.com/guofei9987/blind_watermark)
