@@ -20,17 +20,6 @@
 
 ## 建筑地产
 
-## Detection
-
-- [基于pp-tracking GUI界面](https://github.com/yangyudong2020/PP-Tracking_GUi)
-- [yolov5_fastapi_demo](https://github.com/WelkinU/yolov5-fastapi-demo)
-- 
-
-
-
-## Matting
-
-- [MODNet](https://github.com/ZHKKKe/MODNet)
 - 反光衣识别
 - **安全帽识别**
 - 火焰识别
